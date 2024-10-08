@@ -1,5 +1,5 @@
 # Simulate and plot data
-# Jeffrey Lin
+# Jeffrey C. Lin
 # jeffrey.lin@emory.edu
 # 2024-10-08
 
@@ -10,3 +10,4 @@ response <- 2 * predictor + rnorm(n = 100, sd = 0.2)
 
 # Plot the data
 plot(x = predictor, y = response)
+
