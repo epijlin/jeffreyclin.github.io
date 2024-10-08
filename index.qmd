@@ -1,5 +1,5 @@
 ---
-title: "jeffreyclin.github.io"
+title: "jeffrey-website"
 ---
 
 ## This is to show that I have successfully perform initial commit.
