@@ -3,9 +3,10 @@ project:
   output-dir: docs
 
 website:
+  reader-mode: true
   cookie-consent: true
   open-graph: true
-  title: "Jeffrey Lin"
+  title: "Jeffrey Website"
   navbar:
     tools:
       - icon: linkedin
@@ -13,9 +14,9 @@ website:
       - icon: github
         menu:
           - text: Source Code
-            href:  https://github.com/epijlin/jeffrey-website
+            href:  https://github.com/epijlin/jeffrey-website/
           - text: Report a Bug
-            href:  https://bugs.com
+            href:  https://bugs.com/
     left:
       - text: "Home"
         href: index.qmd
@@ -25,7 +26,7 @@ website:
         href: life.qmd
   page-footer: 
     left: "&copy; Copyright 2024, Jeffrey Lin"
-    right: "Built with [Quarto](https://quarto.org/)"
+    right: "Built with [Coming soon...](Coming soon...)"
   search: 
     location: navbar
     type: overlay
@@ -36,7 +37,7 @@ format:
       light: flatly
       dark: darkly
     css: styles.css
-    toc: true
+    toc: false
 
 body-header: |
   This page brought to you by <https://example.com>

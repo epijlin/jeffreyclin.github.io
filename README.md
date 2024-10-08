@@ -77,3 +77,7 @@ Once you've completed these steps, delete the content of this **README** and add
 *This repo was initially generated from a Quarto template available here: https://github.com/jtr13/website-template.*
 
 (And starring the repo would be nice too!)
+
+### Additional information on GitHub can be found [here](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes/)
+
+In `_quarto.yml`, `toc` stands for table of content. If true, it will show on the right sidebar. 

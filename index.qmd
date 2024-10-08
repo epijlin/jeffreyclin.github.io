@@ -3,5 +3,3 @@ title: "jeffrey-website"
 ---
 
 ## This is to show that I have successfully perform initial commit.
-
-## To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

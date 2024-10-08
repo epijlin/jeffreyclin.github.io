@@ -9,22 +9,36 @@
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
-    "title": "Jeffrey Lin",
+    "title": "Jeffrey Website",
     "section": "Education",
     "text": "Education\nComing soon…"
   },
   {
     "objectID": "about.html#experience",
     "href": "about.html#experience",
-    "title": "Jeffrey Lin",
+    "title": "Jeffrey Website",
     "section": "Experience",
     "text": "Experience\nComing soon…"
   },
   {
     "objectID": "about.html#skills",
     "href": "about.html#skills",
-    "title": "Jeffrey Lin",
+    "title": "Jeffrey Website",
     "section": "Skills",
     "text": "Skills\nComing soon…"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "jeffrey-website",
+    "section": "",
+    "text": "sidebar: false"
+  },
+  {
+    "objectID": "index.html#this-is-to-show-that-i-have-successfully-perform-initial-commit.",
+    "href": "index.html#this-is-to-show-that-i-have-successfully-perform-initial-commit.",
+    "title": "jeffrey-website",
+    "section": "",
+    "text": "sidebar: false"
   }
 ]
