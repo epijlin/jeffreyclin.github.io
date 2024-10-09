@@ -1,1 +1,14 @@
 /* css styles */
+
+h1 {
+  font-size: 3rem; /* Increase the font size of <h1> headings to 3rem */
+}
+
+h2 {
+  font-size: 2.5rem; /* Increase the font size of <h2> headings to 2.5rem */
+}
+
+h3 {
+  font-size: 2rem; /* Increase the font size of <h3> headings to 2rem */
+}
+

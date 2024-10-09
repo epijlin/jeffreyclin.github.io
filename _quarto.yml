@@ -3,10 +3,11 @@ project:
   output-dir: docs
 
 website:
+  back-to-top-navigation: true
   reader-mode: true
-  cookie-consent: true
+  cookie-consent: false
   open-graph: true
-  title: "Jeffrey Website"
+  title: "Jeffrey Lin"
   navbar:
     tools:
       - icon: linkedin
@@ -22,14 +23,18 @@ website:
         href: index.qmd
       - text: "About"
         href: about.qmd
+      - text: "Work"
+        href: work.qmd
       - text: "Life"
         href: life.qmd
   page-footer: 
-    left: "&copy; Copyright 2024, Jeffrey Lin"
+    left: "&copy; Copyright 2024, Jeffrey Lin<br>Coming Soon"
     right: "Built with [Coming soon...](Coming soon...)"
+    background: light
   search: 
     location: navbar
     type: overlay
+
 
 format:
   html:
@@ -38,9 +43,6 @@ format:
       dark: darkly
     css: styles.css
     toc: false
-
-body-header: |
-  This page brought to you by <https://example.com>
 
 editor: visual
 

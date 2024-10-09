@@ -80,4 +80,6 @@ Once you've completed these steps, delete the content of this **README** and add
 
 ### Additional information on GitHub can be found [here](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes/)
 
-In `_quarto.yml`, `toc` stands for table of content. If true, it will show on the right sidebar. 
+## In `_quarto.yml`, `toc` stands for table of content. If true, it will show on the right sidebar. 
+
+- `css: styles.css` indicates create a file called styles.css and that you can customize the font size

@@ -1,5 +1,10 @@
 ---
-title: "jeffrey-website"
+about:
+  template: marquee
+  image: IMG_7171.JPG
 ---
 
-## This is to show that I have successfully perform initial commit.
+# Jeffrey's Homepage
+
+
+[Download my resume (PDF)](website-handou.pdf)

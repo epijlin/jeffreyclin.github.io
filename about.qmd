@@ -1,7 +1,7 @@
 ---
 date: last-modified
 about:
-  template: jolla
+  template: solana
   image: Career Headshots.jpg
 ---
 
@@ -22,3 +22,5 @@ Coming soon...
 ## Skills
 
 Coming soon...
+
+[About pages](https://quarto.org/docs/websites/website-about.html#templates/)
